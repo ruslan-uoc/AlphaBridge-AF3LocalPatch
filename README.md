@@ -1,4 +1,4 @@
-# !!! This fork is deprecated as now AlphaBrideg supports the output from AlphaFold3. 
+# !!! This fork is deprecated as now AlphaBridge supports the output from AlphaFold3. 
 
 # AlphaFold3 Local Installation Compatability Patch for AlphaBridge
 
