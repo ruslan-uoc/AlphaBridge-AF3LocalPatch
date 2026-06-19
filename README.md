@@ -1,3 +1,5 @@
+# !!! This fork is deprecated as now AlphaBrideg supports the output from AlphaFold3. 
+
 # AlphaFold3 Local Installation Compatability Patch for AlphaBridge
 
 This is the fork of the original AlphaBridge directory containing several bash and python scripts enabling the usage of local AlphaFold3 output by making it match the format of AlphaFoldServer.
